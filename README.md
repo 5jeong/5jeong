@@ -20,12 +20,7 @@
     </div>
 </div>
 
-<div align="center">
-    <!-- Solved.ac Badge -->
-    <a href="https://solved.ac/ojh4385">
-        <img src="http://mazassumnida.wtf/api/generate_badge?boj=ojh4385" alt="Solved.ac ojh4385"/>
-    </a>
-</div>
+
 
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
@@ -35,3 +30,9 @@
     </div>
 </div>
 
+<div align="center">
+    <!-- Solved.ac Badge -->
+    <a href="https://solved.ac/ojh4385">
+        <img src="http://mazassumnida.wtf/api/generate_badge?boj=ojh4385" alt="Solved.ac ojh4385"/>
+    </a>
+</div>
