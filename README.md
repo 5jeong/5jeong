@@ -1,7 +1,7 @@
 
 
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=0:a2d5e2,100:eeeef2&height=120&text=&animation=&fontColor=000000&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=0:a2d5e2,100:eeeef2&height=120&text=JeongHoon%20GitHub&animation=&fontColor=000000&fontSize=70" />
 </div>
 
 <div align="center">
