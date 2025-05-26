@@ -1,7 +1,7 @@
 
 
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=a6d3ff&height=120&text=JeongHoon%20Github&animation=&fontColor=000000&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=0:a2d5e2,100:eeeef2&height=120&text=&animation=&fontColor=000000&fontSize=70" />
 </div>
 
 <div align="center">
@@ -23,11 +23,9 @@
 
 
 <div align="center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
-    <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=5jeong&bg_color=180,a3d3ff,00000000&title_color=000000&text_color=000000"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5jeong&layout=compact&bg_color=180,a3d3ff,00000000&title_color=000000&text_color=000000"/>
-    </div>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=5jeong&bg_color=60,a2d5e2,eeeef2&title_color=000000&text_color=000000"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5jeong&layout=compact&bg_color=60,a2d5e2,eeeef2&title_color=000000&text_color=000000"
+           /> </div> 
 </div>
 
 <div align="center">
